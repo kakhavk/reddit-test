@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RedditClient</string>
+    <string name="hello_reddit">გამარჯობა რედიტ!</string>
+
+    <string name="usernameLabel">User Name</string>
+    <string name="passwordLabel">Password</string>
+    <string name="enter">Enter</string>
+    <string name="tryAgain">Try again</string>
+
+    <string name="succesfullyMessage">You have usccessfully entered</string>
+</resources>
